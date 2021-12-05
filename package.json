@@ -1,0 +1,16 @@
+{
+  "name": "adventofcode_2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day_1.js",
+  "scripts": {
+    "start": "nodemon day_3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
